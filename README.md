@@ -11,3 +11,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Kotlin full stack development in Chengdu.
 - 💬 Ask me about full stack app development with Kotlin, programming languages, along with mathematics and logic and their formalization.
 - 📫 How to reach me: send me a message on [my LinkedIn profile](https://www.linkedin.com/in/shreckye/).
+
+![Shreck Ye's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreckYe&count_private=true&show_icons=true)
