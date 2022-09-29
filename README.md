@@ -1,4 +1,5 @@
 ### Hi there 👋 I am Yongshun "Shreck" Ye
+
 I am a bachelor in mathematics and software engineering.
 <!--
 **ShreckYe/ShreckYe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,3 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: send me a message on [my LinkedIn profile](https://www.linkedin.com/in/shreckye/).
 
 ![Shreck Ye's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreckYe&count_private=true&show_icons=true)
+
+[![My Codewars profile](https://www.codewars.com/users/ShreckYe/badges/large)](https://www.codewars.com/users/ShreckYe)
+
+<a href="https://stackexchange.com/users/6577455"><img src="https://stackexchange.com/users/flair/6577455.png" width="208" height="58" alt="profile for Shreck Ye on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Shreck Ye on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
