@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ![Shreck Ye's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreckYe&count_private=true&show_icons=true)
 
+[My GitLab profile](https://gitlab.com/ShreckYe)
+
 [![My Codewars profile](https://www.codewars.com/users/ShreckYe/badges/large)](https://www.codewars.com/users/ShreckYe)
 
 <a href="https://stackexchange.com/users/6577455"><img src="https://stackexchange.com/users/flair/6577455.png" width="208" height="58" alt="profile for Shreck Ye on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Shreck Ye on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
