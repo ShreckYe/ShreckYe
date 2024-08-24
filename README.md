@@ -7,7 +7,7 @@ I am a bachelor in mathematics and software engineering.
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on efficient full stack app development with [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html) (mainly [Vert.x](https://vertx.io/) and [Compose Multiplatform](https://www.jetbrains.com/lp/compose-multiplatform/)).
+- 🔭 I’m currently working on full stack multiplatform app development with [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html) (mainly [Vert.x](https://vertx.io/) and [Compose Multiplatform](https://www.jetbrains.com/lp/compose-multiplatform/)).
 - 🌱 I’m currently learning programming language theory and category theory, taking Haskell, Agda, and Arend as my main tools. To be more precise, I am now studying Category Theory for Programmers I, II, and III by Bartosz Milewski, [Cubical Agda](https://agda.readthedocs.io/en/latest/language/cubical.html), and [Arend Tutorial](https://arend-lang.github.io/documentation/tutorial).
 - 👯 I’m looking to collaborate on Kotlin full stack development in Chengdu.
 - 💬 Ask me about full stack app development with Kotlin, JVM development, programming languages, and proof assistants.
