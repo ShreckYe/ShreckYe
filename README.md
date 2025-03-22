@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on full-stack multiplatform app development with [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html) (mainly [Vert.x](https://vertx.io/) and [Compose Multiplatform](https://www.jetbrains.com/lp/compose-multiplatform/)) in [@huanshankeji](https://github.com/huanshankeji).
-- 🌱 I’m currently learning programming language theory and category theory, taking Haskell, Agda, and Arend as my main tools. <!-- To be more precise, I am now studying Category Theory for Programmers I, II, and III by Bartosz Milewski, [Cubical Agda](https://agda.readthedocs.io/en/latest/language/cubical.html), and [Arend Tutorial](https://arend-lang.github.io/documentation/tutorial). -->
+- 🌱 I’m currently learning programming language theory and category theory, taking Haskell, Agda, Lean 4, and Arend as my main tools. <!-- To be more precise, I am now studying Category Theory for Programmers I, II, and III by Bartosz Milewski, [Cubical Agda](https://agda.readthedocs.io/en/latest/language/cubical.html), and [Arend Tutorial](https://arend-lang.github.io/documentation/tutorial). -->
 - 👯 I’m looking to collaborate on developing multiplatform applications and open-source libraries with Kotlin full-stack technologies. Check out [@huanshankeji](https://github.com/huanshankeji) for our open-source projects and contact me if you are interested in our apps.
 - 💬 Ask me or communicate with me about full-stack app development with Kotlin, JVM development (Kotlin, Scala, and Java), build tools such as Gradle, programming languages, and proof assistants.
 - 📫 How to reach me: send me an email at shreckye[at]gmail[dot]com.
