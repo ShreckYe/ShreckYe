@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Yongshun "Shreck" Ye
 
-I am a Kotlin full-stack developer and a programming language theory / type theory enthusiast.
+I am a Kotlin full-stack developer and a programming language theory (functional programming, type theory, formal math, etc.) enthusiast.
 <!--
 **ShreckYe/ShreckYe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
